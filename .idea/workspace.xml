@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7a0dc8f-300d-4fc6-b490-0b5109570138" name="更改" comment="第n+1+1次">
+    <list default="true" id="d7a0dc8f-300d-4fc6-b490-0b5109570138" name="更改" comment="第1次提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newyolo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/newyolo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +26,7 @@
         <entry key="$PROJECT_DIR$/.." value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -62,7 +63,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -84,6 +85,8 @@
       <workItem from="1769048402663" duration="1897000" />
       <workItem from="1769051429003" duration="800000" />
       <workItem from="1769052254902" duration="1085000" />
+      <workItem from="1769053453913" duration="214000" />
+      <workItem from="1769053748289" duration="173000" />
     </task>
     <task id="LOCAL-00001" summary="第一次修改">
       <option name="closed" value="true" />
@@ -141,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769053285002</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="第1次提交">
+      <option name="closed" value="true" />
+      <created>1769053510240</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1769053510240</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +188,7 @@
     <MESSAGE value="aa" />
     <MESSAGE value="第n+1次" />
     <MESSAGE value="第n+1+1次" />
-    <option name="LAST_COMMIT_MESSAGE" value="第n+1+1次" />
+    <MESSAGE value="第1次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第1次提交" />
   </component>
 </project>
